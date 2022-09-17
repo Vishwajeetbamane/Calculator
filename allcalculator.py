@@ -3,12 +3,12 @@
 
 var9 = 1
 while var9 == 1:
-	print("Welcome to Calculator")
-	print("+ for Add")
-	print("- for Subtract")
-	print("* for Multiply")
-	print("/ for Divide")
-	print("Q for Quit")
+	print("........Welcome to the Calculator........")
+	print("+ for Add\n- for Subtraction\n* for Multiply\n/ for Divide\n")
+
+
+
+
 	print("Press Enter to run again")
 	print("Choose a operator from above:")
 	var1=input()
